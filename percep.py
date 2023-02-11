@@ -1,4 +1,5 @@
-import numpy as np theta = 1
+import numpy as np 
+  theta = 1
 epoch = 3
 class Perceptron(object):
 def __init__(self, input_size, learning_rate=0.2):
